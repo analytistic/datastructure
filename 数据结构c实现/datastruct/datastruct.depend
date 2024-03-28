@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1692710939 source:d:\408数据结构\datastruct\main.c
+	"SqListOperation.h"
+	"LinkListOperation.h"
+	"DLinkListOperation.h"
+
+1692252319 source:d:\408数据结构\datastruct\sqlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1692543104 d:\408数据结构\datastruct\sqlistoperation.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692279418 source:d:\408数据结构\datastruct\seqlistoperation.c
+	"SqListOperation.h"
+
+1692543457 source:d:\408数据结构\datastruct\sqlistoperation.c
+	"SqListOperation.h"
+
+1692413149 d:\408数据结构\datastruct\linklistoperation.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692421526 source:d:\408数据结构\datastruct\linklistoperation.c
+	"LinkListOperation.h"
+
+1692378372 source:d:\408数据结构\datastruct\a.c
+	<stdio.h>
+	<stdlib.h>
+
+1692426169 source:d:\408数据结构\datastruct\dlinklistoperation.c
+	"DLinkListOperation.h"
+
+1692426169 d:\408数据结构\datastruct\dlinklistoperation.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692712672 source:d:\408数据结构\datastruct\homework.c
+	"SqListOperation.h"
+
